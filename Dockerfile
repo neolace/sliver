@@ -1,5 +1,6 @@
 FROM golang:1.25rc3
 
+
 #
 # IMPORTANT: This Dockerfile is used for testing, I do not recommend deploying
 #            Sliver using this container configuration! However, if you do want
