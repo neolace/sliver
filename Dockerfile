@@ -1,4 +1,4 @@
-FROM golang:1.26.8
+FROM golang:1.26rc2
 
 
 #
